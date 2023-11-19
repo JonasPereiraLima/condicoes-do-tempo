@@ -1,2 +1,2 @@
 # condicoes-do-tempo
- projeto completo
+ projeto feito usando HTML, CSS, TypeScript e a [Weather API](https://openweathermap.org/api)
